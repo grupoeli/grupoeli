@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Grupo eli",
-    "currentPage": "page3.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -13,7 +13,7 @@
     "siteFonts": [],
     "favicon": "@PROJECT_PATH@/assets/images/favicongrupoeliorange.png",
     "noImageResize": "true",
-    "uniqCompNum": 18,
+    "uniqCompNum": 20,
     "versionPublish": "4.8.4",
     "screenshot": "screenshot.png"
   },
@@ -356,67 +356,33 @@
       "components": [
         {
           "_params": {
-            "fullWidth": true,
+            "fullWidth": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "noGutter": false,
+            "noGutter": true,
             "showText": false,
             "showBullets": true,
             "bgColor": "#4c6972",
             "images": [
               {
-                "image": "images/slide1.jpg",
-                "thumb": "images/slide1-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20180908-135525.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20180908-135525-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "images/slide2.jpg",
-                "thumb": "images/slide2-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20180908-102257.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20180908-102257-800x601.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "image": "images/slide3.jpg",
-                "thumb": "images/slide3-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide4.jpg",
-                "thumb": "images/slide4-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide5.jpg",
-                "thumb": "images/slide5-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide6.jpg",
-                "thumb": "images/slide6-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide7.jpg",
-                "thumb": "images/slide7-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide8.jpg",
-                "thumb": "images/slide8-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20180908-135526.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20180908-135526-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -429,7 +395,7 @@
             "Tema"
           ],
           "_name": "gallery1",
-          "_anchor": "gallery1-h"
+          "_anchor": "gallery1-j"
         }
       ]
     },
