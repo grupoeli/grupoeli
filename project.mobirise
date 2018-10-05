@@ -478,14 +478,6 @@
             "bgColor": "#4c6972",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/20181003-144314.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20181003-144314-800x601.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Jose Luis &nbsp;y El Famosisimo \"Vaquero\"",
-                "active": false
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/20181003-144339.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20181003-144339-800x601.jpg",
                 "alt": "",
@@ -507,39 +499,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Oneida apenitas y Leo",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/20181003-144348.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20181003-144348-800x526.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Se ve Aurora, Yury, Daniela, etc.",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/20181003-144350.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20181003-144350-800x601.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Aurora, Gera Jr, etc.",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/20181003-144358.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20181003-144358-800x615.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Jr, Segio, Yury, Dany, etc.",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/20181003-144404.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20181003-144404-800x567.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Jr, Segio, Yury, Dany, etc.",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20181003-wa0001.jpg",
@@ -547,7 +507,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "El festejado",
-                "active": true
+                "active": false
               }
             ]
           },
