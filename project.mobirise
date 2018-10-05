@@ -11,8 +11,8 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.4",
     "siteFonts": [],
-    "favicon": "@PROJECT_PATH@/assets/images/logogrupoeli-1-128x56.png",
-    "noImageResize": "",
+    "favicon": "@PROJECT_PATH@/assets/images/logogrupoeli-1-128x56-1.png",
+    "noImageResize": "true",
     "uniqCompNum": 17,
     "versionPublish": "4.8.4",
     "screenshot": "screenshot.png"
@@ -314,7 +314,7 @@
           },
           "text1": "<b>DIRECCION</b><br>Santa Sabina 1280,<br>Fracc. Santa Fe,<br>Culiacán, Sinaloa,<br>México.",
           "text2": "<strong>CONTACTO</strong><br>\nEmail: grupoeli.general@gmail.com<br>Teléfono: 667 1510277<br>SKYPE: itelmex@gmail.com",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://poliflex.mx/\" target=\"_blank\">Poliflex</a></li><li><a href=\"https://electrica.mx/\" target=\"_blank\">Revista Eléctrica</a></li><li>Acceso Administrativo</li><li><br></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://poliflex.mx/\" target=\"_blank\">Poliflex</a></li><li><a href=\"https://electrica.mx/\" target=\"_blank\">Revista Eléctrica</a></li><li><a href=\"page3.html\" target=\"_blank\">Acceso Administrativo</a></li><li><br></li></ul>",
           "_tags": [
             "Tema"
           ],
