@@ -21,8 +21,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Grupo Eli",
+        "meta_descr": "Grupo Eli es una empresa ubicada en la ciudad de Culiacán, Sinaloa, México. Dedicada a la implementación de proyectos de electricidad, electrónica y comunicaciones. Se proporciona, adicionalmente,   el servicio a sistemas y equipos que lo requieran. ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
