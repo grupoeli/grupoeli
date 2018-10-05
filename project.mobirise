@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.4",
     "siteFonts": [],
-    "favicon": "@PROJECT_PATH@/assets/images/happy-man-icon-152-185948.png",
+    "favicon": "@PROJECT_PATH@/assets/images/favicongrupoeliorange.png",
     "noImageResize": "true",
     "uniqCompNum": 17,
     "versionPublish": "4.8.4",
@@ -307,9 +307,10 @@
               "linkInNewWindow": false,
               "name": "home",
               "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "active": true
+              "link": "page3.html",
+              "size": "",
+              "active": true,
+              "newWindow": false
             }
           },
           "text1": "<b>DIRECCION</b><br>Santa Sabina 1280,<br>Fracc. Santa Fe,<br>Culiacán, Sinaloa,<br>México.",
