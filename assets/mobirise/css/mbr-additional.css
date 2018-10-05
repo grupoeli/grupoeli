@@ -30,3 +30,15 @@
 #dropdown-menu-2btn-g .navbar-toggler {
   color: #ffffff;
 }
+#ext_menu-e .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-e.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-e .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-e .mbr-navbar__hamburger {
+  color: #ffffff;
+}
