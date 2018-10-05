@@ -13,14 +13,23 @@
 #form1-4 .mbr-header__text {
   color: #ffffff;
 }
-#content5-7 .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #fff;
+#dropdown-menu-2btn-g .hide-buttons [data-button] {
+  display: none !important;
 }
-#content5-7 .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
+#dropdown-menu-2btn-g .nav .link,
+#dropdown-menu-2btn-g .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
 }
-#content5-7 .mbr-article {
-  color: #fff;
+#dropdown-menu-2btn-g .navbar,
+#dropdown-menu-2btn-g .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-2btn-g .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-g .dropdown-menu a:hover,
+#dropdown-menu-2btn-g .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-2btn-g .navbar-toggler {
+  color: #ffffff;
 }
