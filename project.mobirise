@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Grupo eli",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -13,7 +13,7 @@
     "siteFonts": [],
     "favicon": "@PROJECT_PATH@/assets/images/favicongrupoeliorange.png",
     "noImageResize": "true",
-    "uniqCompNum": 22,
+    "uniqCompNum": 13,
     "versionPublish": "4.8.4",
     "screenshot": "screenshot.png"
   },
@@ -34,8 +34,8 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showArrow": false,
-            "contentAlign": "right",
+            "showArrow": true,
+            "contentAlign": "center",
             "bgImageRadio": false,
             "bgImage": "images/bg2.jpg",
             "parallax": true,
