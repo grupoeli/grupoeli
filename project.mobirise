@@ -478,36 +478,12 @@
             "bgColor": "#4c6972",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/20181003-144339.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20181003-144339-800x601.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Gerado apenitas y el Vaquero",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/20181003-144341.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20181003-144341-800x601.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Gerardo Lee Borrego",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/20181003-144344.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20181003-144344-800x601.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Oneida apenitas y Leo",
-                "active": true
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/img-20181003-wa0001.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20181003-wa0001-379x608.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "El festejado",
-                "active": false
+                "active": true
               }
             ]
           },
