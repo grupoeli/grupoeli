@@ -11,8 +11,8 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.4",
     "siteFonts": [],
-    "favicon": "@PROJECT_PATH@/assets/images/img-20180915-wa0001-128x128.png",
-    "noImageResize": "true",
+    "favicon": "@PROJECT_PATH@/assets/images/logogrupoeli.png",
+    "noImageResize": "",
     "uniqCompNum": 17,
     "versionPublish": "4.8.4",
     "screenshot": "screenshot.png"
