@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Grupo eli",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -469,7 +469,7 @@
       "components": [
         {
           "_params": {
-            "fullWidth": false,
+            "fullWidth": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "noGutter": false,
