@@ -877,7 +877,7 @@
           },
           "title1": "3CXPHONE 6.0",
           "caption1": "Teléfono para la PC, compatible con &nbsp;Windows 7 &nbsp;y &nbsp;Windows 10,&nbsp;<br>gratuito.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.3cx.com/downloads/3CXPhone6.msi\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DESCARGAR</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.3cx.com/downloads/3CXPhone6.msi\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DESCARGAR</a>",
           "media2": {
             "image": {
               "active": true,
